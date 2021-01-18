@@ -1,6 +1,6 @@
-package view;
+package model;
 
 public enum TurnPlayer {
     PLAYER1,
-    PLAYER2
+    PLAYER2,
 }

@@ -1,2 +1,6 @@
-package model;public enum BoxState {
+package model;
+
+public enum BoxState {
+    FILLED,
+    EMPTY
 }
